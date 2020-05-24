@@ -1,0 +1,16 @@
+h5{
+	color:gray;
+	border-bottom:1px solid gray;
+	padding:10px;
+}
+.layout{
+  font-family: "배달의민족 주아";
+	font-size:20px;
+}
+.photo{
+	width:250px
+}
+
+.table {
+  margin: 0 auto;
+}
